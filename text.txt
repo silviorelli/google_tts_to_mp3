@@ -1,0 +1,2 @@
+Ho il piacere di presentarvi Gestart, un'applicazione web utilizzabile da computer, tablet e smartphone.
+Gestart, è un sistema che si sincronizza da solo in tempo reale, ogni volta che lo si utilizza.
