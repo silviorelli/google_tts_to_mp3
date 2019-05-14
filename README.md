@@ -14,3 +14,5 @@
 - Add text inside `text.txt`
 
 - Run `ruby ./main.rb`
+
+- Mp3s will be placed inside the `output` directory
