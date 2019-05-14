@@ -16,3 +16,10 @@
 - Run `ruby ./main.rb`
 
 - Mp3s will be placed inside the `output` directory
+
+
+# Resources
+
+- Google SSML supported markup: https://cloud.google.com/text-to-speech/docs/ssml
+
+- Available voices: https://cloud.google.com/text-to-speech/docs/voices
