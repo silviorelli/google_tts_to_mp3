@@ -18,4 +18,4 @@ node_modules/*
 latest.dump
 
 credentials.json
-*.mp3
+/output/*
